@@ -2,5 +2,4 @@
 
 thanks Galiaaaaaaaa :D
 Say hello to my cat! 
-![Hatuli](Images/Cat_Aslan.png)
-
+![Hatuli](Images/Cat_Aslan.jpeg)

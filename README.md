@@ -1,2 +1,6 @@
 # Eithan_Portfolio
-# thanks Galiaaaaaaaa :D
+
+thanks Galiaaaaaaaa :D
+Say hello to my cat! 
+![Hatuli](Images/Cat_Aslan.png)
+
